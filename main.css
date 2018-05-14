@@ -1,0 +1,55 @@
+h1 {
+  text-align: center;
+  font-size: 6em;
+}
+
+h3 {
+  text-align: center;
+  font-size: 3em;
+  color: blue;
+}
+
+h4 {
+  text-align: center;
+  font-size: 2em;
+}
+
+button {
+  font-size: 2em;
+  margin: 50px;
+  text-align: center;
+  float: right;
+}
+
+table {
+  border-collapse: collapse;
+  float: left;
+  width: 50%;
+  min-width: 450px;
+}
+
+tr th {
+  text-align: center;
+  height: 200px;
+  width: 200px;
+  font-size: 10em;
+}
+
+.first {
+  border-bottom: 3px solid black;
+}
+
+.second {
+  border-bottom: 3px solid black;
+}
+
+.center {
+  border-left: 3px solid black;
+  border-right: 3px solid black;
+}
+
+.second {}
+
+.left {}
+
+.right {}
